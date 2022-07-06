@@ -6,6 +6,7 @@
 4. Run command: npm run ios 
 
 Browserstack tests dashboard - https://app-automate.browserstack.com/dashboard/
+
 SwagLabsMobileApp - bs://a47aa5e3855689a0b6200a9ee199f0db2bf4e295
 
 

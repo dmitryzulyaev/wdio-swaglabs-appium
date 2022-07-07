@@ -4,8 +4,9 @@ exports.config = {
 
     updateJob: false,
     specs: [
+        'appiumtests/ios/specs/loginClass.spec.js',
         'appiumtests/ios/specs/login.spec.js',
-        'appiumtests/ios/specs/productPurchase.spec.js'
+        'appiumtests/ios/specs/productPurchase.spec.js',
     ],
     exclude: [],
 
